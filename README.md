@@ -42,7 +42,7 @@ poetry install
 ### Мое задание:
 <div align="center">
   <img width='300px' src='https://i.ibb.co/7NwJ4QC/photo-2023-07-22-18-43-30.jpg'>
-  <img width='300px' src='https://i.ibb.co/7NwJ4QC/photo-2023-07-22-18-43-30.jpg'>
+  <img width='300px' src='https://i.ibb.co/TKXFJqR/photo-2023-07-22-18-43-34.jpg'>
 </div>
 
 <p>Список дел. Написать простой бэкенд к скриншотам, можно сокращать. Смотрю больше на умение разобраться в нашем стеке и объяснить собственные выборы по устройству API

@@ -18,10 +18,11 @@ with app.app_context():
         db.create_all()
 
     init_users()
+    db.create_all()
     db.session.commit()
 
 app.after_request(db.with_autocommit)
 socketio.after_event(db.with_autocommit)
 
-if __name__ == "__main__":  # test only
+if __name__ == "__main__":
     socketio.run(app=app, debug=True)

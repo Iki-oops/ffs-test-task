@@ -16,6 +16,11 @@ passlib = "^1.7.4"
 psycopg2-binary = "^2.9.6"
 flask-fullstack = "0.4.14"
 python-dotenv = "^1.0.0"
+pytest = "^7.4.0"
+flask = "^2.3.2"
+alembic = "^1.11.1"
+environs = "^9.5.0"
+psycopg2 = "^2.9.6"
 
 
 [tool.poetry.group.dev.dependencies]
